@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\bin\Debug\controlador final.exe.config
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\bin\Debug\controlador final.exe
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\bin\Debug\controlador final.pdb
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\obj\Debug\controlador final.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\obj\Debug\controlador_final.Form1.resources
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\obj\Debug\controlador_final.Properties.Resources.resources
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\obj\Debug\controlador final.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\obj\Debug\controlador final.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\obj\Debug\controlador final.exe
+C:\Users\HP\Desktop\Nueva carpeta (2)\controlador final\obj\Debug\controlador final.pdb
